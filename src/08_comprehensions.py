@@ -11,6 +11,7 @@ for more info regarding list comprehensions.
 # Write a list comprehension to produce the array [1, 2, 3, 4, 5]
 
 y = []
+# or 
 
 print (y)
 
@@ -33,6 +34,8 @@ print(y)
 # Use a list comprehension to create a list containing only the _even_ elements
 # the user entered into list x.
 
+
+# can i wrap the whole input ??????
 x = input("Enter comma-separated numbers: ").split(',')
 
 # What do you need between the square brackets to make it work?
