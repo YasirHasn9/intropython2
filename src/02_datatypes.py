@@ -16,6 +16,14 @@ y = "7"
 # YOUR CODE HERE
 
 
+def combinesInt(x, y):
+    return print(int(x) + int(y))
+
+
+combinesInt(x, y)
 # Write a print statement that combines x + y into the string value 57
 
 # YOUR CODE HERE
+def combinesStr(x,y):
+    return print(str(x) + str(y))
+combinesStr(x,y)
